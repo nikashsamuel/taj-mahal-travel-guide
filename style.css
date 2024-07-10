@@ -1,0 +1,30 @@
+* {
+    margin: 0;padding: 0; font-family: inherit;
+}
+.manu {
+    display: flex;text-align: center;justify-content: center;
+}
+
+   .manu ul li {
+    text-decoration: none; display: flex; text-align: center;justify-content: center; margin-inline: 20px;
+}
+.manu ul  :hover{
+    color: blue;text-decoration: underline;
+}
+.img2{
+    margin-left: 250px;
+}
+header{
+    background-color: whitesmoke; 
+}
+a{
+    color: red; font-size: x-large; font-family: initial;
+}
+.in-ul{
+    margin-left: 50px;
+}
+footer{
+    background-color: black; color: white;}
+   footer p{
+margin-left: 10%;}
+    
